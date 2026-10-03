@@ -1,25 +1,25 @@
-# QR-Code
-QR Code generator application built with C#.
 # QR Code Generator
 
-Una aplicación por consola sencilla e intuitiva desarrollada en C# para la generación de códigos QR.
+Una aplicación de consola desarrollada en **C#** y **.NET** que permite generar códigos QR a partir de texto o enlaces y guardarlos automáticamente como imágenes PNG en el sistema de archivos.
 
 ## 🚀 Características
 
-- Generación rápida de códigos QR.
-- Opción para exportar/guardar la imagen del código QR generado (PNG, JPG).
+- Generación rápida de códigos QR a partir de cualquier cadena de texto o URL.
+- Utiliza el nivel de corrección de errores **ECC Level Q** para garantizar una buena legibilidad.
+- Exportación directa a formato de imagen **PNG**.
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías y Librerías
 
 - **Lenguaje:** C# (.NET)
-- **Librerías:** QRCoder
+- **Librería QR:** [QRCoder](https://github.com/codebude/QRCoder) (vía NuGet)
+- **Procesamiento de imágenes:** `System.Drawing`
 
-## 📋 Requisitos previos
+## 📋 Requisitos Previos
 
-- [.NET SDK](https://dotnet.microsoft.com/download) (versión X.X o superior).
-- Visual Studio 2022 / JetBrains Rider / VS Code.
+- [.NET SDK](https://dotnet.microsoft.com/download) (.NET 8.0 / .NET 9.0 / .NET 10.0)
+- Visual Studio 2022 / JetBrains Rider / VS Code
 
-## ⚙️ Instalación y ejecución
+## ⚙️ Instalación y Ejecución
 
 1. **Clonar el repositorio:**
    ```bash
