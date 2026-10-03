@@ -2,19 +2,17 @@
 QR Code generator application built with C#.
 # QR Code Generator
 
-Una aplicación sencilla e intuitiva desarrollada en C# para la generación de códigos QR a partir de texto o URLs.
+Una aplicación por consola sencilla e intuitiva desarrollada en C# para la generación de códigos QR.
 
 ## 🚀 Características
 
 - Generación rápida de códigos QR.
-- Permite ingresar cadenas de texto y URLs.
 - Opción para exportar/guardar la imagen del código QR generado (PNG, JPG).
-- Interfaz clara y fácil de usar.
 
 ## 🛠️ Tecnologías utilizadas
 
 - **Lenguaje:** C# (.NET)
-- **Librerías:** [Ej. QRCoder / ZXing.Net]
+- **Librerías:** QRCoder
 
 ## 📋 Requisitos previos
 
