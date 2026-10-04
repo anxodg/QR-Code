@@ -1,6 +1,6 @@
 # QR Code Generator
 
-Una aplicación de consola desarrollada en **C#** y **.NET** que permite generar códigos QR a partir de texto o enlaces y guardarlos automáticamente como imágenes PNG en el sistema de archivos.
+Una aplicación de consola desarrollada en **C#** y **.NET** que permite generar códigos QR a partir de texto o enlaces para después guardarlos automáticamente como imágenes PNG en el sistema de archivos.
 
 ## 🚀 Características
 
